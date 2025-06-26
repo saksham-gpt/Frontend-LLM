@@ -2,8 +2,6 @@
 
 A modern, beautiful, and responsive web-based chat interface that connects directly to multiple Large Language Model (LLM) providers from the client-side. This application allows you to use APIs from Google (Gemini), OpenRouter, and Cerebras without needing a backend server.
 
-![Chat Interface Screenshot](screenshot.png) <!-- You can replace this with an actual screenshot of your app -->
-
 ## Features
 
 - **Multi-Provider Support:** Seamlessly switch between different LLM providers and models.
