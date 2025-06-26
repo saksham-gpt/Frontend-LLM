@@ -2,14 +2,11 @@
 
 A modern, beautiful, and responsive web-based chat interface that connects directly to multiple Large Language Model (LLM) providers from the client-side. This application allows you to use APIs from Google (Gemini), OpenRouter, and Cerebras without needing a backend server.
 
-![Chat Interface Screenshot](screenshot.png) <!-- You can replace this with an actual screenshot of your app -->
-
 ## Features
 
 - **Multi-Provider Support:** Seamlessly switch between different LLM providers and models.
-  - **Google AI:** Gemini 2.5 Flash, Gemini 2.5 Flash Lite
   - **OpenRouter:** Minimax M1, Deepseek R1, Qwen3, and more.
-  - **Cerebras:** Llama 4 Scout, Qwen 3, Llama 3.3.
+  - **Cerebras:** Llama 4 Scout, Qwen 3, Llama 3.1, Llama 3.3.
 - **Secure Local Storage:** Your API keys are stored securely in your browser's `localStorage`, so you only need to enter them once.
 - **Chat History:** Conversations are saved locally, allowing you to review past interactions. You can also clear the history at any time.
 - **Beautiful UI:** A clean, modern, and responsive user interface designed for a great chat experience.
